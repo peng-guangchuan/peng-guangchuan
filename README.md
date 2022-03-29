@@ -2,15 +2,24 @@
 
 <img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
-- ✍️  大家好，我是PGC，目前准备成为一名前端工程师！热爱计算机科学和IT互联网事业，励志成为一名资深程序员！「Coding Changes the World🌏」
-- 📕  学习笔记和博客csdn
-- 🧠 用js写的算法记录
--  
--  
--  
--  
--  
--  
+- ✍️ 大家好，我是PGC，目前准备成为一名前端工程师！热爱计算机科学和IT互联网事业，励志成为一名资深程序员！「Coding Changes the World🌏」
+- 🎓 本科信息科学专业，系统的学习过数据结构、操作系统、设计模式、软件工程、计算机网络等课程，开发基础夯实！
+- 📕 我开通了 <a href="https://blog.csdn.net/shallow77"><img style="padding-top=10px" src="https://img.shields.io/badge/CSDN-%E5%8D%9A%E5%AE%A2-c32136"></a> 用于分享平时遇到问题的解决方案，同时也会分享一些学习过程中的理解，欢迎关注！⭐
+- 😉 喜欢所有新奇的技术以及黑科技的电子产品~
+- 🧠 正在尝试用JavaScript复习学过的算法基础👇
+- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=LeetCode-JavaScript&theme=default"></a>
+- 📂 我的一些学习代码and笔记仓库👇
+- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Study-Plan&theme&theme=default">
+</a>
+
+<!-- - <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Webpack-study-code&theme&theme=default">
+</a>
+
+- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=React-study-code&theme&theme=default">
+</a> -->
 
 ## 🛠 Languages and Tools I Use
 
@@ -72,7 +81,7 @@
 
 <!-- Gif -->
 <div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
+  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
@@ -88,17 +97,17 @@
 <table width="100%"> 
   <tr>
     <td width="56.5%">
-      <img src="https://github-readme-stats.vercel.app/api?username=peng-guangchuan&show_icons=true&theme=vue">
+      <img alt="github活动统计" src="https://github-readme-stats.vercel.app/api?username=peng-guangchuan&show_icons=true&theme=vue">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peng-guangchuan&layout=compact&langs_count=8">
+      <img alt="github使用语言统计" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peng-guangchuan&layout=compact&langs_count=8">
     </td>
   </tr>
 </table>
 
 <p align="center"> 
   Visitors :<br>
-  <img src="https://profile-counter.glitch.me/peng-guangchuan/count.svg" />
+  <img alt="统计访客信息图" src="https://profile-counter.glitch.me/peng-guangchuan/count.svg" />
 </p>
 
 <!--
