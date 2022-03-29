@@ -9,17 +9,7 @@
 - 🧠 正在尝试用JavaScript复习学过的算法基础👇
 - <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=LeetCode-JavaScript&theme=default"></a>
 - 📂 我的一些学习代码and笔记仓库👇
-- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Study-Plan&theme&theme=default">
-</a>
-
-<!-- - <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Webpack-study-code&theme&theme=default">
-</a>
-
-- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=React-study-code&theme&theme=default">
-</a> -->
+- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Study-Plan&theme&theme=default"></a>
 
 ## 🛠 Languages and Tools I Use
 
@@ -48,7 +38,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-whitesmoke?style=flat-square&logo=IntelliJ%20IDEA&logoColor=black)
 
-
 - 🛢 数据库：
 
 &emsp;&emsp;
@@ -62,9 +51,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-<!-- ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat-square&logo=Windows)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux)
-![Android](https://img.shields.io/badge/-Android-333333?style=flat-square&logo=Android) -->
+<!-- ![IOS](https://img.shields.io/badge/-IOS-333333?style=flat-square&logo=ios) -->
 
 - 💪 计划学习：
 
@@ -94,16 +81,10 @@
 </div>
 
 ## 📈 My GitHub Stats
-<table width="100%"> 
-  <tr>
-    <td width="56.5%">
-      <img alt="github活动统计" src="https://github-readme-stats.vercel.app/api?username=peng-guangchuan&show_icons=true&theme=vue">
-    </td>
-    <td>
-      <img alt="github使用语言统计" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peng-guangchuan&layout=compact&langs_count=8">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="160px" alt="github活动统计" src="https://github-readme-stats.vercel.app/api?username=peng-guangchuan&hide_title=true&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="160px" alt="github使用语言统计" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peng-guangchuan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
 <p align="center"> 
   Visitors :<br>
