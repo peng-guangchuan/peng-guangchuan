@@ -9,7 +9,7 @@
 - 🧠 正在尝试用JavaScript复习学过的算法基础👇
 - <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=LeetCode-JavaScript&theme=default"></a>
 - 📂 我的一些学习代码and笔记仓库👇
-- <a href="https://github.com/peng-guangchuan/LeetCode-JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Study-Plan&theme&theme=default"></a>
+- <a href="https://github.com/peng-guangchuan/Study-Plan"><img src="https://github-readme-stats.vercel.app/api/pin/?username=peng-guangchuan&repo=Study-Plan&theme&theme=default"></a>
 
 ## 🛠 Languages and Tools I Use
 
